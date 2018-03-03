@@ -1,0 +1,30 @@
+*************************************************************
+FileName = XL992FXT10W.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : XL992FXT10W.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : XL992FXT10W.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+

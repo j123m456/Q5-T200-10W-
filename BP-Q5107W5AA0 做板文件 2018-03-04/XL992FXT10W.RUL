@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: F:\研发项目\无线充电\无线充电方案\国产无线充电方案\芯狼\Q5 T200 新塘苹果10W单线圈快速无线充电\Q5 T200 新塘苹果10W单线圈快速无线充电\XL992FXT10W.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=HOLE|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=11.81
